@@ -13,9 +13,13 @@ This project is a simple 3D Earth model built using [Three.js](https://threejs.o
 earth_3js/
 │
 ├── index.html # Main HTML file
+
 ├── index.js # Main JavaScript file with Three.js code
+
 ├── src/ # Additional JavaScript modules (if any)
+
 ├── textures/ # Earth textures (images)
+
 └── README.md # Project README
 
 
