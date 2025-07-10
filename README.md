@@ -2,6 +2,9 @@
 
 This project is a simple 3D Earth model built using [Three.js](https://threejs.org/). It demonstrates how to create an interactive 3D globe with realistic textures and lighting effects.
 
+## 🔗 visit site
+https://mohanchoukse.github.io/ThreeJs-Earth/
+
 
 ## 📸 Video
 https://github.com/user-attachments/assets/a6c79619-1622-4ad2-b5f0-707740aa9c0f
