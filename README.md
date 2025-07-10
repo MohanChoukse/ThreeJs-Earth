@@ -2,6 +2,11 @@
 
 This project is a simple 3D Earth model built using [Three.js](https://threejs.org/). It demonstrates how to create an interactive 3D globe with realistic textures and lighting effects.
 
+
+## 📸 Video
+https://github.com/user-attachments/assets/a6c79619-1622-4ad2-b5f0-707740aa9c0f
+
+
 ## 🚀 Features
 - Realistic Earth texture with day and night effect.
 - 3D rotation for interactive viewing.
@@ -12,6 +17,7 @@ This project is a simple 3D Earth model built using [Three.js](https://threejs.o
 
 earth_3js/
 │
+
 ├── index.html # Main HTML file
 
 ├── index.js # Main JavaScript file with Three.js code
@@ -37,6 +43,7 @@ cd earth_3js
     Open index.html in your browser.
 
     No additional build tools are required; it runs directly in the browser.
+````
 
 🌐 Technologies Used
 
@@ -46,6 +53,4 @@ cd earth_3js
 
     HTML5
 
-📸 Screenshots
 
-<!-- (Add a screenshot of your Earth here if available) -->
